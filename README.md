@@ -1,6 +1,6 @@
 # books_project-SQL
 
--[project overview](#project-overview)
+
 
 ## project overview
  Book Database System that allows users to efficiently store, retrieve, and manage information about books, authors, and genres using SQL.
